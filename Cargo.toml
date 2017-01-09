@@ -1,0 +1,9 @@
+[package]
+name = "lz_configuration"
+version = "0.1.0"
+authors = ["Luke Horsley <luke.horsley@offset1337.co.uk>"]
+
+[dependencies]
+futures = "0.1.7"
+quick-error = "1.1.0"
+either = "1.0.2"
